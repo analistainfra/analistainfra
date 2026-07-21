@@ -63,6 +63,7 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 - wikijs (Wiki + PostgreSQL 15)
 - whatomate (WhatsApp Automation)
 - portainer (Docker Management)
+
 **Monitoramento**
 - prometheus (Métricas)
 - grafana (Dashboards)
@@ -70,17 +71,20 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 - netbox (Inventário)
 - alertmanager (Alertas)
 - unifi-network-app (Controlador de rede UniFi — APs, switches e VLANs)
+
 **Totem de Atendimento**
 - Frontend em Next.js
 - API em Express
 - PostgreSQL 16
 - Redis Cache
 - MinIO Storage
+
 **Chatwoot (Suporte ao Cliente)**
 - Ruby on Rails
 - Integração com WhatsApp
 - PostgreSQL 16
 - Atendimento ao cliente
+
 ### 🏆 Alguns Números da Minha Experiência
 
 | Métrica | Valor |

@@ -10,9 +10,12 @@
 
 Especialista em Infraestrutura de TI, DevOps e Cloud Computing. Atuo na sustentação, automação e otimização de ambientes de tecnologia, garantindo alta disponibilidade, segurança e escalabilidade.
 
+Atuo desde 2014 na área de infraestrutura de TI, redes e servidores, com passagens por instituições como Escolas do Futuro de Goiás (EFG), Colégios Tecnológicos do Estado de Goiás (COTEC) e o CETT/UFG. Atualmente sou responsável pela gestão, manutenção e evolução da infraestrutura tecnológica da FADEX.
+
 - 🔭 Atualmente focado em automação de infraestrutura (IaC) e arquitetura em nuvem.
 - 🛠️ Experiência com administração de sistemas, redes, virtualização e monitoramento.
 - 🎯 Objetivo: Implementar soluções eficientes de CI/CD e cultura DevOps.
+- 🔐 Atuação em segurança da informação, controle de acessos e análise de vulnerabilidades.
 
 ---
 
@@ -37,6 +40,23 @@ Especialista em Infraestrutura de TI, DevOps e Cloud Computing. Atuo na sustenta
 ![Zabbix](https://img.shields.io/badge/Zabbix-F11010?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+## 🎓 Formação Acadêmica
+
+- Graduação em Análise e Desenvolvimento de Sistemas
+- MBA Executivo em Gestão Estratégica de Inovação Tecnológica e Propriedade Intelectual
+- Pós-Graduação em Gestão em Saúde e Administração Hospitalar
+- Pós-Graduação em Administração de Banco de Dados
+- Pós-Graduação em Ciência de Dados e Big Data Analytics
+- Pós-Graduação em Cibersegurança
+
+---
+
+## 📜 Certificações
+
+- Docker Essentials — LINUXtips
 
 ---
 
